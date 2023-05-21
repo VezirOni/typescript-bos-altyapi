@@ -16,7 +16,7 @@
     "useful",
     "tool"
   ],
-  "author": "romanwashere",
+  "author": "vezironi",
   "license": "MIT",
   "dependencies": {
     "discord.js": "^14.9.0"
