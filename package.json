@@ -1,0 +1,25 @@
+{
+  "name": "djs-template",
+  "version": "1.0.0",
+  "description": ".",
+  "main": "./src/index.ts",
+  "scripts": {
+    "start": "ts-node ./src/index.ts"
+  },
+  "repository": {
+    "type": "git",
+    "url": "."
+  },
+  "keywords": [
+    "discord",
+    "bot",
+    "useful",
+    "tool"
+  ],
+  "author": "romanwashere",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^14.9.0"
+  },
+  "devDependencies": {}
+}
